@@ -10,7 +10,7 @@ public class Menu {
         do {
             System.out.println("Selecione uma opção:");
             System.out.println("1 - Ler números até que você digite 10");
-            System.out.println("2- Verificar se uma pessoa é maior de idade");
+            System.out.println("2 - Verificar se uma pessoa é maior de idade");
             System.out.println("3 - Calcular a tabuada de um número");
             System.out.println("4 - Gerar 10 números aleatórios entre 0 e 100");
             System.out.println("5 - Jogar Pedra, Papel ou Tesoura");
